@@ -3,7 +3,7 @@
 ## Table of contents
 
 ### Shallow learning
-In a very simplistic way, in shallow learning algorithms, input features are not "changed", so the algorithm try to search for different parameters and/or way to separate the oservation in the dataset so that the resulting model can separate and predict new observations by using the parameters and patterns learned whil trining time. And other words the number of parameters is mostly bounded by the number of feautures (input dimension space).
+In a very simplistic way, in shallow learning algorithms, input features are not "changed", so the algorithm try to search  different parameters and/or way to separate the oservation in the dataset so that the resulting model can separate and predict new observations by using the parameters and patterns learned whil trining time. And other words the number of parameters is mostly bounded by the number of feautures (input dimension space).
 
   - [Collobrative filtering](collabb_filtering.md)
   - [K-MEAN](kmean.md)
